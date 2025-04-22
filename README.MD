@@ -30,5 +30,5 @@ Utiliza `CSS Grid` para a divisão principal do layout (colunas) e `Flexbox` nas
 2. Vá em *Settings > Pages*
 3. Selecione a branch `main` e diretório raiz `/`
 4. Após publicado, acesse:
-   - https://Everson715.github.io/atividade-css/
+   - https://everson715.github.io/Aula-02/
 
