@@ -24,11 +24,8 @@ Utiliza `CSS Grid` para a divisão principal do layout (colunas) e `Flexbox` nas
 
 ---
 
-## 🌐 Deploy
+## 🌐 Na WEB
 
-1. Suba no GitHub
-2. Vá em *Settings > Pages*
-3. Selecione a branch `main` e diretório raiz `/`
-4. Após publicado, acesse:
+Acesse o Deploy pelo link:
    - https://everson715.github.io/Aula-02/
 
